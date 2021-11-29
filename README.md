@@ -1,6 +1,7 @@
 # Classif_ataques_seguranca_informacao
 Arquivo feito para disciplina USP_PCS_5734_Seguranca_da_Informacao
-Dataset ajustado da Cup KDD99_Universidade da California_Irvine. http://kdd.ics.uci.edu/databases/kddcup99/task.html
+Dataset ajustado (kd9.zip) de 'Cup KDD99_Universidade da California_Irvine'
+Dataset_referencia = http://kdd.ics.uci.edu/databases/kddcup99/task.html
 Uso de Machine Learning para fazer modelo de classficacao: KNN, XGBoost, MLPerceptron e outros.
 Uso de validacao cruzada com 10 folds.
 Uso de ANN (CNN) para classficiacao, 5 camadas e 5 epocas. Montagem de Matriz de Confusao.
